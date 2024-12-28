@@ -1,7 +1,7 @@
 import React, { useState, useRef, useEffect } from "react";
 import Header from "./Components/Header/Header";
 import FoodItem from "./Components/FoodItem/FoodItem";
-import "../src/app.css";
+import "App.css";
 import Footer from "./Components/Footer/Footer";
 import staticMenu from "./Data/Data";
 
